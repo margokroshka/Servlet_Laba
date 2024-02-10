@@ -1,0 +1,2 @@
+Java is a strongly typed, object-oriented,
+general-purpose programming language developed by Sun Microsystems.
